@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="letter-template-03.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       id="filter3904"
+       width="1.6687448"
+       height="1.632999"
+       x="-0.33437242"
+       y="-0.31649951">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3"
+         id="feGaussianBlur3906" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3937">
+      <g
+         id="g3939"
+         transform="matrix(1.2134888,0,0,1.219242,-368.67236,-221.42419)">
+        <use
+           x="0"
+           y="0"
+           xlink:href="#flowRoot2985"
+           id="use3941"
+           transform="matrix(0.90244613,0,0,0.90049052,282.43742,401.19644)"
+           width="744.09448"
+           height="1052.3622"
+           style="fill:#ffd5d5;stroke:#ffd5d5;stroke-width:5.47190046;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#flowRoot2985"
+           id="use3943"
+           style="opacity:0.79166667;fill:#ffe6d5;fill-opacity:1;stroke:#ffe6d5;stroke-width:5.41113234;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3904)"
+           transform="matrix(0.91237606,0,0,0.91080742,282.90823,406.71774)"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#flowRoot2985"
+           id="use3945"
+           transform="matrix(0.90742635,0,0,0.90742635,280.57551,402.123)"
+           width="744.09448"
+           height="1052.3622"
+           style="fill:#800000" />
+      </g>
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       id="filter5413"
+       x="-0.24887054"
+       y="-0.23556788"
+       width="1.4977411"
+       height="1.4711358">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.4509358"
+         id="feGaussianBlur5415" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5489">
+      <g
+         id="g5491">
+        <use
+           x="0"
+           y="0"
+           xlink:href="#flowRoot2985"
+           id="use5493"
+           transform="matrix(0.90244613,0,0,0.90049052,181.38223,284.10903)"
+           width="744.09448"
+           height="1052.3622"
+           style="fill:#ffd5d5;stroke:#ffd5d5;stroke-width:6.65581179;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5413)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#flowRoot2985"
+           id="use5495"
+           style="opacity:0.79166667;fill:#ffe6d5;fill-opacity:1;stroke:#ffe6d5;stroke-width:6.58189583;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3904)"
+           transform="matrix(0.91237606,0,0,0.91080742,181.85304,289.63033)"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#flowRoot2985"
+           id="use5497"
+           transform="matrix(0.90742635,0,0,0.90742635,181.52032,287.03559)"
+           width="744.09448"
+           height="1052.3622"
+           style="fill:#800000" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3867">
+      <use
+         style="fill:#ffff00"
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(0.90742635,0,0,0.90742635,181.52032,287.03559)"
+         id="use3869"
+         xlink:href="#flowRoot2985"
+         y="0"
+         x="0" />
+    </clipPath>
+    <filter
+       inkscape:label="Bubbly Bumps"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Flexible bubbles effect with some displacement"
+       color-interpolation-filters="sRGB"
+       id="filter3961"
+       x="-0.0084554606"
+       y="-0.084109778"
+       width="1.0169109"
+       height="1.1682196">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="0.5"
+         id="feGaussianBlur3963" />
+      <feTurbulence
+         baseFrequency="0.2"
+         seed="300"
+         numOctaves="10"
+         result="result1"
+         type="fractalNoise"
+         id="feTurbulence3965" />
+      <feGaussianBlur
+         stdDeviation="0.5"
+         result="result8"
+         id="feGaussianBlur3967" />
+      <feDisplacementMap
+         result="result7"
+         in2="result8"
+         scale="5"
+         in="result0"
+         xChannelSelector="R"
+         id="feDisplacementMap3969" />
+      <feComposite
+         result="result2"
+         operator="in"
+         in2="result1"
+         in="result7"
+         id="feComposite3971" />
+      <feComposite
+         k3="3"
+         in2="result2"
+         in="result0"
+         operator="arithmetic"
+         id="feComposite3973" />
+      <feBlend
+         result="fbSourceGraphic"
+         mode="multiply"
+         in2="result2"
+         id="feBlend3975" />
+      <feColorMatrix
+         values="1 0 0 -1 0 1 0 1 -1 0 1 0 0 -1 0 -1.8 -0.5 0 5.7 -3.5 "
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha"
+         id="feColorMatrix3977" />
+      <feGaussianBlur
+         stdDeviation="0.5"
+         in="fbSourceGraphicAlpha"
+         result="result0"
+         id="feGaussianBlur3979" />
+      <feSpecularLighting
+         result="result6"
+         surfaceScale="5"
+         specularExponent="3"
+         id="feSpecularLighting3981">
+        <feDistantLight
+           azimuth="225"
+           elevation="10"
+           id="feDistantLight3983" />
+      </feSpecularLighting>
+      <feComposite
+         in2="fbSourceGraphicAlpha"
+         in="result6"
+         result="result2"
+         operator="in"
+         id="feComposite3985" />
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="0.7"
+         in2="result2"
+         id="feComposite3987" />
+    </filter>
+    <filter
+       inkscape:menu-tooltip="In and out glow with a possible offset and colorizable flood"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Cutout Glow"
+       color-interpolation-filters="sRGB"
+       id="filter3145"
+       x="-0.21788366"
+       y="-0.1598998"
+       width="1.5265522"
+       height="1.3864245">
+      <feOffset
+         dy="3"
+         dx="3"
+         id="feOffset3147" />
+      <feGaussianBlur
+         result="result8"
+         stdDeviation="3"
+         id="feGaussianBlur3149" />
+      <feFlood
+         flood-color="rgb(0,0,0)"
+         flood-opacity="1"
+         in="result8"
+         result="result10"
+         id="feFlood3151" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result10"
+         result="result9"
+         id="feComposite3153" />
+      <feBlend
+         mode="normal"
+         in2="result9"
+         in="result8"
+         id="feBlend3155" />
+    </filter>
+    <filter
+       y="-0.31303484"
+       x="-0.44132296"
+       width="1.8826459"
+       height="1.6260697"
+       inkscape:label="Plaster"
+       inkscape:menu="Bumps"
+       inkscape:menu-tooltip="Combine a HSL edges detection bump with a matte and crumpled surface effect"
+       style="color-interpolation-filters:sRGB;"
+       id="filter3319">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result3"
+         id="feGaussianBlur3287" />
+      <feGaussianBlur
+         stdDeviation="1.5"
+         in="SourceGraphic"
+         result="result4"
+         id="feGaussianBlur3289" />
+      <feBlend
+         in2="result3"
+         mode="darken"
+         result="result11"
+         id="feBlend3291" />
+      <feComponentTransfer
+         result="result1"
+         id="feComponentTransfer3299">
+        <feFuncR
+           type="table"
+           tableValues="0 0.2 0.133333 0.3 0.4 0.333333 0.5 0.6 0.533333 0.7 0.8 0.733333 0.9 1 0.933333 1.1 1"
+           id="feFuncR3293" />
+        <feFuncG
+           type="table"
+           tableValues="0 0.2 0.133333 0.3 0.4 0.333333 0.5 0.6 0.533333 0.7 0.8 0.733333 0.9 1 0.933333 1.1 1"
+           id="feFuncG3295" />
+        <feFuncB
+           type="table"
+           tableValues="0 0.2 0.133333 0.3 0.4 0.333333 0.5 0.6 0.533333 0.7 0.8 0.733333 0.9 1 0.933333 1.1 1"
+           id="feFuncB3297" />
+      </feComponentTransfer>
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="result1"
+         id="feColorMatrix3301" />
+      <feDiffuseLighting
+         lighting-color="#ffffff"
+         in="result2"
+         diffuseConstant="1"
+         result="result1"
+         surfaceScale="-15"
+         id="feDiffuseLighting3305">
+        <feDistantLight
+           azimuth="225"
+           elevation="10"
+           id="feDistantLight3303" />
+      </feDiffuseLighting>
+      <feSpecularLighting
+         result="result14"
+         specularExponent="10"
+         specularConstant="1"
+         surfaceScale="-15"
+         in="result2"
+         id="feSpecularLighting3309">
+        <feDistantLight
+           elevation="45"
+           azimuth="225"
+           id="feDistantLight3307" />
+      </feSpecularLighting>
+      <feComposite
+         result="result13"
+         k3="0.5"
+         k2="0.5"
+         in2="result1"
+         operator="arithmetic"
+         id="feComposite3311" />
+      <feFlood
+         flood-color="rgb(217,144,144)"
+         result="result12"
+         id="feFlood3313" />
+      <feComposite
+         in2="result13"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="0.8"
+         in="result11"
+         id="feComposite3315" />
+      <feComposite
+         in2="SourceGraphic"
+         result="result7"
+         operator="in"
+         in="result9"
+         id="feComposite3317" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6121801"
+     inkscape:cx="382.71158"
+     inkscape:cy="339.9124"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2550"
+     inkscape:window-height="1395"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     style="display:inline">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect3853"
+       width="631.43671"
+       height="332.73166"
+       x="67.512985"
+       y="196.22597" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <use
+       x="0"
+       y="0"
+       xlink:href="#flowRoot2985"
+       id="use3075"
+       transform="matrix(0.90500718,0,0,0.90500718,181.86966,287.46505)"
+       width="744.09448"
+       height="1052.3622" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2985"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1"
+       transform="matrix(2.136246,0,0,2.136246,-534.07844,-696.78132)"><flowRegion
+         id="flowRegion2987"
+         style="font-family:sans-serif"><rect
+           id="rect2989"
+           width="330.90097"
+           height="110.94185"
+           x="180.86526"
+           y="317.16223"
+           style="font-family:sans-serif;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara2993"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.0001px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill-opacity:1">B</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3779"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-0.31655844)"><flowRegion
+         id="flowRegion3781"
+         style="font-family:sans-serif"><rect
+           id="rect3783"
+           width="323.93671"
+           height="790.29309"
+           x="-329.54871"
+           y="-5.785367"
+           style="font-family:sans-serif" /></flowRegion><flowPara
+         id="flowPara3787"
+         style="font-size:16px;line-height:1.25;font-family:sans-serif">1. Create text (bolder fonts look nicer, try Stencil Std or Bauhaus)</flowPara><flowPara
+         id="flowPara3789"
+         style="font-size:16px;line-height:1.25;font-family:sans-serif">2. Open Fill&amp;Stroke settings</flowPara><flowPara
+         id="flowPara3793"
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"> </flowPara><flowPara
+         id="flowPara3797"
+         style="font-size:16px;line-height:1.25;font-family:sans-serif">3. Mark both Fill and Stroke Pain it as unset, which is the &quot;?&quot; icon</flowPara><flowPara
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"
+         id="flowPara3799"> </flowPara><flowPara
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"
+         id="flowPara3801">4. Create three clones</flowPara><flowPara
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"
+         id="flowPara3803"> </flowPara><flowPara
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"
+         id="flowPara3809"> </flowPara><flowPara
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"
+         id="flowPara3821">On clone 1:</flowPara><flowPara
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"
+         id="flowPara3823">Same color of stroke and fill, width 6, it should be just an outline, make it slightly smaller</flowPara><flowPara
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"
+         id="flowPara3825"> </flowPara><flowPara
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"
+         id="flowPara3867">On clone 2:     </flowPara><flowPara
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"
+         id="flowPara3871">Same color of stroke and fill, adjust width to 6, add blur and a bit of transparency</flowPara><flowPara
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"
+         id="flowPara3869" /><flowPara
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"
+         id="flowPara3827">On clone 3:</flowPara><flowPara
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"
+         id="flowPara3829">make smaller, put it on top of the others</flowPara><flowPara
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"
+         id="flowPara3877" /><flowPara
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"
+         id="flowPara3879">Duplicate whole thing. Group the duplicate.</flowPara><flowPara
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"
+         id="flowPara5401">Create elipse, select it, select group, object -&gt; clip -&gt; set</flowPara><flowPara
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"
+         id="flowPara5462" /><flowPara
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"
+         id="flowPara5452">Duplicate the text. Group the duplicate. Create elipse, create square and use it to cut elipse in two, keep only bottom part (edit, difference). Click it, select group, object -&gt; clip -&gt; set</flowPara><flowPara
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"
+         id="flowPara5444" /><flowPara
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"
+         id="flowPara5446">Now you can change the text any time you want.</flowPara><flowPara
+         style="font-size:16px;line-height:1.25;font-family:sans-serif"
+         id="flowPara3835" /></flowRoot>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#flowRoot2985"
+       id="use3831"
+       transform="matrix(0.90742635,0,0,0.90742635,181.52032,287.03559)"
+       width="744.09448"
+       height="1052.3622"
+       style="fill:none;fill-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5454"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion5456"
+         style="font-family:sans-serif"><rect
+           id="rect5458"
+           width="10.081169"
+           height="289.2139"
+           x="-42.551949"
+           y="637.43054"
+           style="font-family:sans-serif" /></flowRegion><flowPara
+         id="flowPara5460"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>
+  </g>
+</svg>
